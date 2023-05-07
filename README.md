@@ -1,6 +1,6 @@
 # halo_flutter
 
-A new Flutter project.
+flutter 学习的demo项目工程
 
 ## Getting Started
 
